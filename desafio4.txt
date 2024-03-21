@@ -1,0 +1,7 @@
+Primeiramente ligaria um interruptor e aguardaria alguns minutos. após isso desligaria e 
+Depois ligaria outro interruptor e iria ver um quarto. 
+    Se estivesse com a luz apagada e a lampada quente, é o primeiro interruptor.
+    se estivesse aceso, seria o segundo.
+    se estivesse apaga e frio, o terceiro.
+Indo para o segundo quarto, analisaria as mesmas situações, identificando 2 delas da para identificar cada interruptor.
+    
